@@ -24,11 +24,11 @@ pip install flask_wtf
 
 ## Usage
 
-Road2A+ is available at: road-2-a-plus.herokuapp.com
+Road2A+ is available at: [Heroku](road-2-a-plus.herokuapp.com)
 
 or if you would like to run it locally on your device: 
 
-Run the run.py file by clicking on the green triangle logo on the top right corner (if using VSCode). 
+Run the **run.py** file. 
 
 ## Support
 
